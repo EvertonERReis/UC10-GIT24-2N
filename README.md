@@ -5,11 +5,9 @@
 - Éverton Eduardo Rodrigues Reis
 
 
-<font color="red">Texto vermelho</font>
 
+![badge](https://img.shields.io/badge/Texto-Azul-blue)
 
-
-![texto colorido](url-da-imagem)
 
 
 <p>
