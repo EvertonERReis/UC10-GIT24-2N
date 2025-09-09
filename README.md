@@ -1,6 +1,7 @@
 # UC10-Git
 
 <h1>Integrantes do projeto:</h1>
+
 - Éverton Eduardo Rodrigues Reis
 
 <p>
