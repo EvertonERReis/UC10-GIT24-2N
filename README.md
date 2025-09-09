@@ -11,5 +11,6 @@
 <img src="./images.webp" style="width:50px;height:auto">
 
 <a href= "https://cinema.maplehorst.com/harry-potter-15-most-powerful-wands">Varinhas Mais Poderosas </a>
+<a href= "https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax" > Dicas de Git </a>
 
 
